@@ -1,6 +1,10 @@
 /**
- - Scraper: https://whatsapp.com/channel/0029Vb2mOzL1Hsq0lIEHoR0N/120
- - Kalian .skrep --add SpotifyDL
+ > Scraper: https://whatsapp.com/channel/0029Vb2mOzL1Hsq0lIEHoR0N/120
+ > Kalian .skrep --add SpotifyDL
+ > Ch1
+ > https://whatsapp.com/channel/0029VadFS3r89inc7Jjus03W
+ > Ch2
+ > https://whatsapp.com/channel/0029VateyJuKWEKhJMRKEL20
 **/
 
 const axios = require('axios');
