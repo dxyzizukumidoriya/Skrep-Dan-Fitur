@@ -1,6 +1,6 @@
 /**=====================
 > Arigato Axel Scrape: Xbox nya
-> Source: https://whatsapp.com/channel/0029Vb0YWvYJ3jusF2nk9U1P
+> Source Scrape: https://whatsapp.com/channel/0029Vb0YWvYJ3jusF2nk9U1P
 > No apus wm
 =====================**/
 
