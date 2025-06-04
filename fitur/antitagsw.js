@@ -10,7 +10,7 @@ Mau type mana?
 --kick
 
 Contoh:
-${usedPrefix + command} on --tagsw`;
+${usedPrefix + command} on --delete`;
     let [ena, typeRaw] = text.split(' --');
     let type = typeRaw?.trim()?.toLowerCase();
     if (!ena || !type) return m.reply(list);
