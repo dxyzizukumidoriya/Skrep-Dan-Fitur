@@ -63,5 +63,7 @@ handler.help = ['antitagsw'];
 handler.tags = ['group'];
 handler.command = /^antitagsw$/i;
 handler.group = true;
+handler.admin = true;
+handler.botAdmin = true;
 
 export default handler;
