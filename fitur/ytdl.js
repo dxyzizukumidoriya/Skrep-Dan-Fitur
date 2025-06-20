@@ -507,7 +507,7 @@ async function convertMedia(url, format, quality, isAudio = false) {
     }
 }
 
-handler.help = ['ytmp3', 'yta', 'ytaudio', 'ytmp4', 'ytv', 'ytvideo'].map(v => v + ' *< limk >* ');
+handler.help = ['ytmp3', 'yta', 'ytaudio', 'ytmp4', 'ytv', 'ytvideo'].map(v => v + ' *< link >* ');
 handler.tags = ['downloader']
 handler.command = /^(ytmp3|yta|ytaudio|ytmp4|ytv|ytvideo)$/i;
 
